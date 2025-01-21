@@ -1,4 +1,4 @@
-# Shikimori BlackList ID
+# Shikimori BlackList ID RKN - RU
 Список из id Shikimori:
 7711
 585
